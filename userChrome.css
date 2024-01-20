@@ -150,6 +150,7 @@ hbox.titlebar-buttonbox-container:nth-child(6)>hbox:nth-child(1)>toolbarbutton:n
 
 /* change fonts for url bar */
 
-#urlbar-background {
+#urlbar,
+#searchbar .searchbar-textbox {
     font-family: 'Cascadia Code' !important;
 }

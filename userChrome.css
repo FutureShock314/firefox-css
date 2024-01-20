@@ -18,8 +18,7 @@
 
 #urlbar,
 #searchbar .searchbar-textbox {
-    font-family: JetBrains Mono !important;
-    font-size: 12pt
+    font-family: 'Cascadia Code' !important;
 }
 
 #TabsToolbar,
@@ -146,11 +145,4 @@ hbox.titlebar-buttonbox-container:nth-child(6)>hbox:nth-child(1)>toolbarbutton:n
     border-radius: 0 10px 0 0 !important;
     translate: 10px -10px !important;
     padding: 3px 5px 0 0 !important;
-}
-
-/* change fonts for url bar */
-
-#urlbar,
-#searchbar .searchbar-textbox {
-    font-family: 'Cascadia Code' !important;
 }

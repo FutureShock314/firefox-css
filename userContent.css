@@ -1,0 +1,10 @@
+@-moz-document domain(github.com) {
+	:root {
+		--color-btn-primary-bg: #00f4d5 !important;
+		--color-primer-border-active: #00f4d5 !important;
+	}
+	
+	.cUKlsG::after {
+		background-color: #00f4d5 !important;
+	}
+}

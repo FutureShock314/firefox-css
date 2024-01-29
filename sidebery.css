@@ -1,0 +1,23 @@
+/** COPY THIS INTO SIDEBERY CUSTOM CSS EDITOR **/
+
+.Tab {
+	flex-grow: 1;
+}
+
+.PinnedTabsBar {
+	display: flex;
+	& > .tab-wrapper {
+		display: flex;
+		flex-grow: 1;
+	}
+}
+
+body {
+	background-color: rgb(6, 8, 31);
+}
+
+#root {
+	--frame-bg: rgb(6, 8, 31) !important;
+	--toolbar-bg: rgb(6, 8, 31) !important;
+	background-color: rgb(6, 8, 31);
+}

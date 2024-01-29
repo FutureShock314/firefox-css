@@ -16,6 +16,8 @@
     --lwt-accent-color: rgb(6, 8, 31) !important;
 }
 
+@import url('https://fonts.cdnfonts.com/css/cascadia-code'); /* this is here to clarify what it's for */
+
 #urlbar,
 #searchbar .searchbar-textbox {
     font-family: 'Cascadia Code' !important;

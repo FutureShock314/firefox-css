@@ -7,3 +7,6 @@ Unfortunately, I can no longer find the original creators of other parts of [use
 Uses **Sidebery v5**
 
 [userContent](userContent.css) is just a small thing I change about colours of the github selected item line on the top bar
+
+Sidebery CSS is located in [sidebery.css](sidebery.css)
+This can be copied into the style editor at Sidebery Settings -> Custom Style editor
